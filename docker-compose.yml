@@ -19,7 +19,7 @@ services:
       - "995"
     environment:
       - TZ=America/Buenos_Aires
-      - h=south.software 
+      - h=southware.site
       - HTTP_PORT=8080 # move port https for use of page
       - HTTPS_PORT=4443 # move port https for use of page
       - DISABLE_CLAMAV=TRUE # antivirus disable 
